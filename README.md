@@ -1,4 +1,4 @@
-# r2code
+# Remote2Code
 
 Open a remote project in your local machines’s VS Code via a reverse SSH tunnel.
 
